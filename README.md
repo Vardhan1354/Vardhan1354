@@ -1,3 +1,7 @@
+
+<!--![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Vardhan1354&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)-->
+
+
 <div align="center">
   <pre>
 ░░░░░░░░░░░░░░░░░░░░░░██╗░░██╗███████╗██╗░░░░░██╗░░░░░░░██████╗░░░░░░░░░░░░░░░░░░░░░░
@@ -21,6 +25,9 @@
 <!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="500">
 </div> -->
+<h3>My GitHub contributions summary</h3>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vardhan1354&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 <div align="left">
   <pre>
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
